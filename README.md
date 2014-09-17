@@ -1,6 +1,6 @@
 Emotional Bag Check
 ======
-The site, emotionalbagcheck.com is no longer live, but a functional demo is available at http://ebc.robynoverstreet.com/
+The site, emotionalbagcheck.com is no longer live, but a functional demo is available at http://ebc.robynoverstreet.com/ (Posts are not stored and email is not sent.)
 
 EmotionalBagCheck was a site where users could submit, or “check”, their emotional “baggage”, 
 a short piece of text about something that had been troubling them, big or small. 
